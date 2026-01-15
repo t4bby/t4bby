@@ -10,8 +10,7 @@
 
 ### 👩‍💻 About Me:
 - 💻 I write on a low level.
-- 🤔 I like to Reverse Engineer mostly using IDA.
-- 🌱 Exploring Windows Internals.
+- 🤔 I like to Reverse Engineer because I like to break things.
 - 😿 Average JavaScript Hater.
 - 💯 Loves to automate things because I am lazy
 - 🤖 Oh yes, hardware hacking, please!
@@ -31,6 +30,11 @@
 
 ## My Discord Server
 [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/FURGCgfvEa)
+
+## My Arch Repository
+I host some package I use on Arch because I often apply patches to them.
+
+If you are interested you can find it here: [https://pkg.t4bby.dev/](https://pkg.t4bby.dev/)
 
 ## My GPG Key
  `5769F74CB05525A8978303D10406E232AA280073` - https://github.com/t4bby.gpg
